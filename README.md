@@ -1,2 +1,2 @@
-# codealpha_datascience
+# codealpha_tasks
 datascience_internship

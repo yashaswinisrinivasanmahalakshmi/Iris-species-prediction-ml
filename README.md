@@ -1,22 +1,22 @@
-## IRIS FLOWER CLASSIFICATION
+# IRIS FLOWER CLASSIFICATION
 
-# DESCRIPTION:
+### DESCRIPTION:
 This project focuses on classifying Iris flowers into three species — Setosa, Versicolor, and Virginica — using Machine Learning techniques.
 The workflow includes data preprocessing, visualization, model training, evaluation, and comparison of multiple algorithms.
 
-# LIBRARIES USED:
+### LIBRARIES USED:
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 
-# ML MODELS USED:
+### ML MODELS USED:
 - logistic Regression
 - Random Forest Classifier
 - K-Nearest Neighbors (KNN)
   
-# DATASET:
+### DATASET:
 The Iris dataset contains measurements such as:
 - Sepal Length
 - Sepal Width
@@ -26,7 +26,7 @@ These features are used to predict the flower species.
 
 
 
-# STEPS PERFORMED:
+### STEPS PERFORMED:
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (Pairplots & Heatmaps)
 - Train–Test Split
@@ -36,7 +36,7 @@ These features are used to predict the flower species.
 - Confusion Matrix & Classification Report
 - Feature Importance Visualization
 
-# RESULT:
+### RESULT:
 All models produced high accuracy.
 Random Forest showed the best overall performance.
 Petal Length and Petal Width were identified as the most influential features for classification.
